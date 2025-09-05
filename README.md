@@ -1,32 +1,65 @@
-# Image Color Picker
+# 🎨 Image Color Picker
 
-Pick colors from images directly in VS Code and get hex color codes.
+Pick colors from images directly in **Visual Studio Code** and instantly get hex codes.
 
-## Features
+![Demo](images/demo1.gif)
 
-- Pick colors from any image file (PNG, JPG, GIF, BMP, SVG, WebP)
-- Copy hex codes to clipboard
-- Save colors to a file
-- Insert colors at cursor position
-- Works with active image files or browse for any image
+---
 
-## Usage
+## ✨ Features
+
+- 🖼️ Pick colors from **any image file** (`PNG, JPG, GIF, BMP, SVG, WebP`)
+- 📋 **Copy hex codes** directly to clipboard
+- 💾 **Save picked colors** to a file for later use
+- ⌨️ **Insert color codes** at the cursor position in your code
+- ⚡ Works with active image files or **browse for any image**
+
+---
+
+## 🚀 Usage
 
 1. Open an image file in VS Code
-2. Use Command Palette (`Ctrl+Shift+P`) → "Pick Color from Active Image"
-3. Or use "Pick Color from Image File..." to browse for any image
-4. Click anywhere on the image to pick a color
+2. Open **Command Palette** → `Image Color Picker: Pick Color from Active Image`
+3. Or use `Image Color Picker: Pick Color from Image File...` to browse any image
+4. 🖱️ Click anywhere on the image to pick a color 🎉
 
-## Commands
+---
 
-- `Image Color Picker: Pick Color from Active Image` - Pick from currently open image
-- `Image Color Picker: Pick Color from Image File...` - Browse and pick from any image
+## 🔧 Commands
 
-## Release Notes
+- `Image Color Picker: Pick Color from Active Image` → Pick from the currently open image
+- `Image Color Picker: Pick Color from Image File...` → Browse & pick from any image
+
+---
+
+## 📸 Demo & Screenshots
+
+| Picking a Color          | Inserted in Code                  |
+| ------------------------ | --------------------------------- |
+| ![Pick](images/demo1.gif) | ![Insert](images/demo1.gif) |
+
+_(Replace `demo.gif` and `insert-demo.gif` with your real assets)_
+
+---
+
+## 📦 Release Notes
 
 ### 1.0.0
 
-- Initial release
-- Color picking from images
-- Hex code extraction
-- Copy, save, and insert functionality
+- ✨ Initial release
+- 🎨 Pick colors from images
+- 🔑 Extract hex codes
+- 📋 Copy, save, and insert functionality
+
+---
+
+## 🛠️ Contribution
+
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an [issue](https://github.com/KEHEM-IT/image-color-picker/issues).
+
+---
+
+## 📜 License
+
+[MIT](LICENSE) © KEHEMIT
