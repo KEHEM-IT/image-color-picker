@@ -34,11 +34,9 @@ Pick colors from images directly in **Visual Studio Code** and instantly get hex
 
 ## 📸 Demo & Screenshots
 
-| Picking a Color          | Inserted in Code                  |
+| Picking a Color          | Saved Color File                  |
 | ------------------------ | --------------------------------- |
-| ![Pick](images/demo1.gif) | ![Insert](images/demo1.gif) |
-
-_(Replace `demo.gif` and `insert-demo.gif` with your real assets)_
+| ![Pick](images/demo1.gif) | ![Insert](images/demo2.gif) |
 
 ---
 
