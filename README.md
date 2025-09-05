@@ -2,7 +2,13 @@
 
 Pick colors from images directly in **Visual Studio Code** and instantly get hex codes.
 
+## How To Use Color Picker!
 ![Demo](images/demo1.gif)
+
+---
+
+## Saved Color Codes!
+![Demo](images/demo2.gif)
 
 ---
 
@@ -36,7 +42,7 @@ Pick colors from images directly in **Visual Studio Code** and instantly get hex
 
 | Picking a Color          | Saved Color File                  |
 | ------------------------ | --------------------------------- |
-| ![Pick](images/demo1.gif) | ![Insert](images/demo2.gif) |
+| ![Pick](images/demo1.gif) | ![Saved](images/demo2.gif) |
 
 ---
 
