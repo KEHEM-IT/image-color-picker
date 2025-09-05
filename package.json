@@ -3,7 +3,7 @@
   "displayName": "Image Color Picker",
   "description": "A simple VS Code extension to pick colors from images and save hex color codes.",
   "publisher": "KEHEMIT",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "engines": {
     "vscode": "^1.74.0"
   },

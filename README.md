@@ -55,6 +55,8 @@ Pick colors from images directly in **Visual Studio Code** and instantly get hex
 - 🔑 Extract hex codes
 - 📋 Copy, save, and insert functionality
 
+### 1.0.1
+- ✨ Update Documentation
 ---
 
 ## 🛠️ Contribution
